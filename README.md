@@ -20,6 +20,7 @@ Speed
 User experience
 
 ## OUTPUT
-[text]("PROMPT EXP 2.pdf")
+"PROMPT EXP 2.pdf"
+
 ## RESULT
 This experiment demonstrates that both the choice of AI platform and the prompting strategy significantly influence the quality of generated summaries
